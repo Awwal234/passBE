@@ -23,4 +23,4 @@ pyrsistent==0.19.3
 pytz==2023.3
 SQLAlchemy==2.0.12
 typing_extensions==4.5.0
-Werkzeug==2.2.37
+Werkzeug==2.2.3
