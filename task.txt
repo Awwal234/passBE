@@ -1,0 +1,13 @@
+"""
+Note: Make a model for the e-commerce inventory with id(unique),
+productName, price, quantity.
+"""
+
+- Add new items to inventory
+- Retrieve informations about items based on their SKU(Stock keeping Unit)
+- Modify existing items
+- Remove items from inventory
+
+"""
+Good bye (^^)
+"""
